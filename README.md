@@ -1,2 +1,2 @@
 # roblox-luau-farm-system
-A collection of custom Luau scripts and mechanics built into Roblox Studio, focusing on client-server interaction, event-driven programming, and game logic.
+A modular prototyping sandbox built in Luau to explore game engine mechanics, client-server communication (RemoteEvents/RemoteFunctions), and server-authoritative state management in Roblox Studio.
